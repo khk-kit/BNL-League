@@ -112,10 +112,12 @@ p{
     transition: all 0.3s ease-in-out;
 }
 .navbar-nav .nav-item a:hover{
+    /* color: blue; */
     color: var(--e-global-color-accent) !important;
 }
 .navbar-nav .active > a{
-    color: var(--e-global-color-accent) !important;
+    color: blue;
+    /* color: var(--e-global-color-accent) !important; */
 }
 .navbar-nav .active > .contact_btn{
     background-image: linear-gradient(90deg, var(--e-global-color-bright-red) 0%, var(--e-global-color-soft-red) 100%);
