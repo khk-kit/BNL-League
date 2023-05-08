@@ -91,6 +91,7 @@ p{
 .banner-section-outer{
     background-image: url('../images/bg.jpg');
     background-size: cover;
+    opacity: 0.8;
     background-repeat: no-repeat;
     background-position: center;
 }
